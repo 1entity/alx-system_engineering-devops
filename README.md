@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Linux navigation command scripts
+Basic Linux navigation command scripts
