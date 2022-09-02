@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-Basic Linux navigation command scripts
+task 0. my name is betty
+
